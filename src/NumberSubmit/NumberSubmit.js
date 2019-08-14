@@ -77,18 +77,25 @@ render(){
     let graph_content;
     if(this.state.create_graph){
         graph_content = <div>
+            <h1>
+                This is Fully Completed  Graph with {this.state.nodes} nodes and Budget is : {this.state.budget}
+            </h1>
      <Graph
     id="graph-id" // id is mandatory, if no id is defined rd3g will throw an error
     data={this.state.initial_graph}
     config={myConfig}
     />
-    
+    <h1>
+        This is Minimum Spanning Graph for above graph
+    </h1>
     <Graph
     id="graph-id" // id is mandatory, if no id is defined rd3g will throw an error
     data={this.state.mst_graph}
     config={myConfig}
     /> 
-    
+    <h1>
+        This is the Final Graph
+    </h1>
     <Graph
     id="graph-id" // id is mandatory, if no id is defined rd3g will throw an error
     data={this.state.answer_graph}

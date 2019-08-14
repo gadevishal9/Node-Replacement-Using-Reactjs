@@ -35,8 +35,9 @@ To Start the Backend Server go to the flask-backend directory and type
 ### `python backend.py`
 
 ### `The Following Pictures demonstrate the visual representation of the graph:`
-![alt text](https://github.com/gadevishal9/Node-Replacement-Using-Reactjs/blob/master/images/original.png)
+![alt text](https://github.com/gadevishal9/Node-Replacement-Using-Reactjs/blob/master/images/complete.png)
 
 ![alt text](https://github.com/gadevishal9/Node-Replacement-Using-Reactjs/blob/master/images/mst.png)
 
-![alt text](https://github.com/gadevishal9/Node-Replacement-Using-Reactjs/blob/master/images/complete.png)
+
+![alt text](https://github.com/gadevishal9/Node-Replacement-Using-Reactjs/blob/master/images/original.png)

@@ -33,3 +33,4 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 To Start the Backend Server go to the flask-backend directory and type python backend.py
 
+The Following Pictures demonstrate the visual representation of the graph:
